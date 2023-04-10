@@ -12,8 +12,8 @@ Contenido del proyecto
 
 Para utilizar este proyecto, simplemente descarga los archivos y abre index.html en tu navegador web preferido.
 
-# Estructura de la página web
-## Tittle 
+## Estructura de la página web
+
 Esta maqueta esta creada con HTML5 se introdujo en 2014 y ofrece muchas mejoras con respecto a sus predecesores. Entre las mejoras, se incluyen nuevas etiquetas, una mayor 
 compatibilidad con dispositivos móviles y una mejor semántica para ayudar a los motores de búsqueda a entender mejor el contenido de una página web.
 
